@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:139.0) Gecko/20100101 Firefox/139.0" version="27.1.4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2918" dy="3869" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1388" dy="2749" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <object label="Acteurs" id="ZmzfmCcFbRjJiwDWbrTt-176">
@@ -777,6 +777,48 @@
             <mxPoint x="3696" y="481" as="targetPoint" />
             <mxPoint x="2998" y="642" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ZmzfmCcFbRjJiwDWbrTt-281" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-340" y="-1591" />
+            </Array>
+            <mxPoint x="-340" y="-1590" as="sourcePoint" />
+            <mxPoint x="-273" y="-1591" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZmzfmCcFbRjJiwDWbrTt-282" value="Parcours nominal/principal" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-260" y="-1606" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZmzfmCcFbRjJiwDWbrTt-283" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="34" y="-1888" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZmzfmCcFbRjJiwDWbrTt-284" value="Début de parcours" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="94" y="-1886" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZmzfmCcFbRjJiwDWbrTt-285" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="29" y="-1823" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZmzfmCcFbRjJiwDWbrTt-286" value="Fin de parcours" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="94" y="-1813" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZmzfmCcFbRjJiwDWbrTt-287" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="27" y="-1745" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZmzfmCcFbRjJiwDWbrTt-288" value="Nœud conditionnel (l&#39;une OU l&#39;autre)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="90" y="-1735" width="221" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZmzfmCcFbRjJiwDWbrTt-289" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=parallel;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="29" y="-1686" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZmzfmCcFbRjJiwDWbrTt-290" value="Nœud parallèle (l&#39;un ET l&#39;autre)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="90" y="-1676" width="212" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZmzfmCcFbRjJiwDWbrTt-291" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=complex;strokeColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="29" y="-1618" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZmzfmCcFbRjJiwDWbrTt-292" value="Nœud&amp;nbsp;complexe (cf description)&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="88" y="-1608" width="212" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
