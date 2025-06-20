@@ -640,11 +640,17 @@
         <mxCell id="1lUhwp9rCd7I6Q8NkBMH-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="ZmzfmCcFbRjJiwDWbrTt-175" source="1lUhwp9rCd7I6Q8NkBMH-169">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="5922" y="-27" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="5988" y="-8" />
+              <mxPoint x="5988" y="-55" />
+              <mxPoint x="5923" y="-55" />
+              <mxPoint x="5923" y="-27" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="1lUhwp9rCd7I6Q8NkBMH-181" value="&lt;div&gt;Autant de fois que de&amp;nbsp;&lt;/div&gt;&lt;div&gt;responsables affectés dans la FSR&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1lUhwp9rCd7I6Q8NkBMH-173">
           <mxGeometry x="0.1318" y="2" relative="1" as="geometry">
-            <mxPoint x="23" y="-21" as="offset" />
+            <mxPoint x="23" y="-24" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1lUhwp9rCd7I6Q8NkBMH-169" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Signer action à mener (reco avant)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;fontStyle=1;strokeColor=default;verticalAlign=middle;fillColor=default;" vertex="1" parent="ZmzfmCcFbRjJiwDWbrTt-175">
@@ -820,12 +826,18 @@
         </mxCell>
         <mxCell id="1lUhwp9rCd7I6Q8NkBMH-216" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="ZmzfmCcFbRjJiwDWbrTt-175" source="1lUhwp9rCd7I6Q8NkBMH-218">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="9025" y="-33" as="targetPoint" />
+            <mxPoint x="9035" y="-33" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="9091" y="-14" />
+              <mxPoint x="9091" y="-63" />
+              <mxPoint x="9035" y="-63" />
+              <mxPoint x="9035" y="-33" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="1lUhwp9rCd7I6Q8NkBMH-217" value="&lt;div&gt;Autant de fois que de&amp;nbsp;&lt;/div&gt;&lt;div&gt;responsables affectés dans la FSR&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1lUhwp9rCd7I6Q8NkBMH-216">
           <mxGeometry x="0.1318" y="2" relative="1" as="geometry">
-            <mxPoint x="23" y="-21" as="offset" />
+            <mxPoint x="22" y="-18" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1lUhwp9rCd7I6Q8NkBMH-218" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Signer action à mener (reco pendant/après)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;fontStyle=1;strokeColor=default;verticalAlign=middle;fillColor=default;" vertex="1" parent="ZmzfmCcFbRjJiwDWbrTt-175">
@@ -932,11 +944,11 @@
         <mxCell id="1lUhwp9rCd7I6Q8NkBMH-252" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="ZmzfmCcFbRjJiwDWbrTt-175" source="1lUhwp9rCd7I6Q8NkBMH-248" target="1lUhwp9rCd7I6Q8NkBMH-251">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1lUhwp9rCd7I6Q8NkBMH-248" value="Soldé" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="ZmzfmCcFbRjJiwDWbrTt-175">
-          <mxGeometry x="10041" y="-797" width="64" height="24" as="geometry" />
+        <mxCell id="1lUhwp9rCd7I6Q8NkBMH-248" value="Soldé" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="ZmzfmCcFbRjJiwDWbrTt-175">
+          <mxGeometry x="9914" y="-797" width="64" height="24" as="geometry" />
         </mxCell>
         <mxCell id="1lUhwp9rCd7I6Q8NkBMH-251" value="Demande terminée" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate2;" vertex="1" parent="ZmzfmCcFbRjJiwDWbrTt-175">
-          <mxGeometry x="10171" y="-810" width="50" height="50" as="geometry" />
+          <mxGeometry x="10044" y="-810" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1lUhwp9rCd7I6Q8NkBMH-255" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ZmzfmCcFbRjJiwDWbrTt-175" source="1lUhwp9rCd7I6Q8NkBMH-253" target="1lUhwp9rCd7I6Q8NkBMH-153">
           <mxGeometry relative="1" as="geometry">
