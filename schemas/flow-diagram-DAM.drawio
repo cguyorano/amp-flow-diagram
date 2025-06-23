@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:139.0) Gecko/20100101 Firefox/139.0" version="27.1.5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="4049" dy="4272" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3305" dy="3826" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <object label="Acteurs" id="ZmzfmCcFbRjJiwDWbrTt-176">
@@ -1264,8 +1264,8 @@
             <mxPoint x="6747" y="323" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1lUhwp9rCd7I6Q8NkBMH-342" value="&lt;div&gt;Objectif : Prendre en compte chaque action à mener et point d&#39;arrêts en apportant une justification et/ou une preuve pour solde. L&#39;intervenant peut encore modifier les moyens de prises en compte de l&#39;action à ce stade. Chaque action à mener est traitée individuellement et suit son propre cycle de vie.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;strokeColor=default;dashed=1;dashPattern=1 1;glass=0;perimeterSpacing=0;labelPadding=0;spacing=8;" vertex="1" parent="ZmzfmCcFbRjJiwDWbrTt-175">
-          <mxGeometry x="5450" y="-1388" width="210" height="119" as="geometry" />
+        <mxCell id="1lUhwp9rCd7I6Q8NkBMH-342" value="&lt;div&gt;Objectif : Prendre en compte chaque action à mener et point &lt;br&gt;d&#39;arrêts en apportant une justification et/ou une preuve pour solde. &lt;br&gt;L&#39;intervenant peut modifier les moyens de prises en compte de l&#39;action. Chaque action à mener est traitée individuellement &lt;br&gt;et suit son propre cycle de vie.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;strokeColor=default;dashed=1;dashPattern=1 1;glass=0;perimeterSpacing=0;labelPadding=0;spacing=8;" vertex="1" parent="ZmzfmCcFbRjJiwDWbrTt-175">
+          <mxGeometry x="5450" y="-1382" width="210" height="113" as="geometry" />
         </mxCell>
         <mxCell id="1lUhwp9rCd7I6Q8NkBMH-343" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="ZmzfmCcFbRjJiwDWbrTt-175" source="1lUhwp9rCd7I6Q8NkBMH-164" target="1lUhwp9rCd7I6Q8NkBMH-342">
           <mxGeometry relative="1" as="geometry">
@@ -1425,8 +1425,8 @@
             <mxPoint x="7752" y="477" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1lUhwp9rCd7I6Q8NkBMH-378" value="&lt;div&gt;Objectif : Prendre en compte chaque action à mener et point d&#39;arrêts en apportant une justification et/ou une preuve pour solde. L&#39;intervenant ne peut pas modifier les moyens de prises en compte de l&#39;action à ce stade. Chaque action à mener est traitée individuellement et suit son propre cycle de vie.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;strokeColor=default;dashed=1;dashPattern=1 1;glass=0;perimeterSpacing=0;labelPadding=0;spacing=8;" vertex="1" parent="ZmzfmCcFbRjJiwDWbrTt-175">
-          <mxGeometry x="8506.5" y="-1394" width="210" height="119" as="geometry" />
+        <mxCell id="1lUhwp9rCd7I6Q8NkBMH-378" value="&lt;div&gt;Objectif : Prendre en compte chaque action à mener et point &lt;br&gt;d&#39;arrêts en apportant une justification et/ou une preuve pour solde. &lt;br&gt;L&#39;intervenant peut modifier les moyens de prises en compte de l&#39;action. Chaque action à mener est traitée individuellement &lt;br&gt;et suit son propre cycle de vie.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;strokeColor=default;dashed=1;dashPattern=1 1;glass=0;perimeterSpacing=0;labelPadding=0;spacing=8;" vertex="1" parent="ZmzfmCcFbRjJiwDWbrTt-175">
+          <mxGeometry x="8506.5" y="-1386" width="210" height="111" as="geometry" />
         </mxCell>
         <mxCell id="1lUhwp9rCd7I6Q8NkBMH-379" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="ZmzfmCcFbRjJiwDWbrTt-175" source="1lUhwp9rCd7I6Q8NkBMH-208" target="1lUhwp9rCd7I6Q8NkBMH-378">
           <mxGeometry relative="1" as="geometry">
