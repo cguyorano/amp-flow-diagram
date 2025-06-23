@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:139.0) Gecko/20100101 Firefox/139.0" version="27.1.5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="6197" dy="5561" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4049" dy="4272" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <object label="Acteurs" id="ZmzfmCcFbRjJiwDWbrTt-176">
@@ -1111,6 +1111,21 @@
         </mxCell>
         <mxCell id="1lUhwp9rCd7I6Q8NkBMH-302" value="Objectif : Définir la portée de la modification selon des critères ministériels et ASN. Décrire la modification et les travaux. Analyser et caractériser les risques induits par la modification. Remplir les dossiers de sûreté. Définir des recommandations pour mitiger les risques. Identifier des expertises à mener." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;strokeColor=default;dashed=1;dashPattern=1 1;glass=0;perimeterSpacing=0;labelPadding=0;spacing=8;" vertex="1" parent="ZmzfmCcFbRjJiwDWbrTt-175">
           <mxGeometry x="1480.85" y="1677" width="210" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="1lUhwp9rCd7I6Q8NkBMH-304" value="Liste des expertises de l&#39;étape initialisée avec les demandes d&#39;expertises identifiées dans l&#39;ASD par l&#39;ingénieur sûreté." style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;spacingLeft=16;spacingRight=16;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;fontSize=10;" vertex="1" parent="ZmzfmCcFbRjJiwDWbrTt-175">
+          <mxGeometry x="1775" y="-741" width="245" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="1lUhwp9rCd7I6Q8NkBMH-305" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;dashPattern=12 12;endArrow=none;startFill=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ZmzfmCcFbRjJiwDWbrTt-175" source="1lUhwp9rCd7I6Q8NkBMH-304" target="1lUhwp9rCd7I6Q8NkBMH-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1750" y="-294" as="sourcePoint" />
+            <mxPoint x="1873" y="31" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1lUhwp9rCd7I6Q8NkBMH-306" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;dashPattern=12 12;endArrow=none;startFill=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ZmzfmCcFbRjJiwDWbrTt-175" source="1lUhwp9rCd7I6Q8NkBMH-304" target="1lUhwp9rCd7I6Q8NkBMH-73">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2231" y="28" as="sourcePoint" />
+            <mxPoint x="2615" y="-206" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="1lUhwp9rCd7I6Q8NkBMH-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1lUhwp9rCd7I6Q8NkBMH-68" target="1lUhwp9rCd7I6Q8NkBMH-19">
